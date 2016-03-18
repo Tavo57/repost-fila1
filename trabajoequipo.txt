@@ -2,3 +2,12 @@
 
 practica de git en equipo v2.0
 _______________________________
+
+
+intengrantes de equipo:
+________________________
+
+Gustavo Alberto
+
+Mario Alberto
+________________________
